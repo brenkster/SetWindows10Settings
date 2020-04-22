@@ -24,7 +24,7 @@ https://vanbrenk.blogspot.com
 
 .SOURCE
 
-https://github.com/Disassembler0/Win10-Initial-Setup-Script
+https://github.com/brenkster/SetWindows10Settings
 
 .Prerequisites
 
